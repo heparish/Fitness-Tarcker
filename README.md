@@ -2,7 +2,7 @@
 
 ## Description 
 
-This application uses mongo and heroku to track ones exercises over time.
+This application uses mongo and heroku to track ones exercises over time. Made with javascript, nodejs, and express servers.
 
 ## Contents
 * [Installation](#Installation)
